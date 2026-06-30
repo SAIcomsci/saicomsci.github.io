@@ -8,8 +8,8 @@ export const profile = {
   contact: [
     { icon: 'fas fa-envelope',  label: 'saikatcomsci@gmail.com',  url: 'mailto:saikatcomsci@gmail.com' },
     { icon: 'fab fa-linkedin',  label: 'LinkedIn',                url: 'https://www.linkedin.com/in/saikat-mondal-79209a1aa' },
-    { icon: 'fab fa-github',    label: 'github',    url: 'https://github.com/MonSaikat' },
-    { icon: 'fab fa-twitter',   label: 'twitter',             url: 'https://twitter.com/helloUtsai' },
+    { icon: 'fab fa-github',    label: 'github',                  url: 'https://github.com/MonSaikat' },
+    { icon: 'fab fa-x',         label: 'x',                 url: 'https://twitter.com/helloUtsai' },
     { icon: 'fas fa-graduation-cap', label: 'Google Scholar',     url: 'https://scholar.google.com/citations?user=eqx3nrgAAAAJ&hl=en&authuser=1' },
   ],
 
